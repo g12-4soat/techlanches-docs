@@ -11,11 +11,11 @@ Este projeto faz parte do curso de pós-graduação em Arquitetura de Software o
 
 # Arquitetura microserviços
 
-<p dir="auto"><img src="https://github.com/g12-4soat/techlanches-docs/blob/feature/readme/docs/fase5/TechLanchesArchitecture-aws-micro-service.png" alt="TECHLANCHES" title="TECHLANCHES" style="max-width: 100%;"></p>
+<p dir="auto"><img src="https://github.com/g12-4soat/techlanches-docs/blob/main/docs/fase5/TechLanchesArchitecture-aws-micro-service.png" alt="TECHLANCHES" title="TECHLANCHES" style="max-width: 100%;"></p>
 
 # Diagrama Saga Coreografada
 
-<p dir="auto"><img src="https://github.com/g12-4soat/techlanches-docs/blob/feature/readme/docs/fase5/TechLanchesArchitecture-saga-coreografada.png" alt="TECHLANCHES" title="TECHLANCHES" style="max-width: 100%;"></p>
+<p dir="auto"><img src="https://github.com/g12-4soat/techlanches-docs/blob/main/docs/fase5/TechLanchesArchitecture-saga-coreografada.png" alt="TECHLANCHES" title="TECHLANCHES" style="max-width: 100%;"></p>
 
 # Justificativa Uso Saga Coreografada
 
