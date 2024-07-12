@@ -1,7 +1,7 @@
 <p dir="auto"><img src="https://github.com/g12-4soat/tech-lanches/blob/main/src/TechLanches/Adapter/Driver/TechLanches.Adapter.API/wwwroot/SwaggerUI/images/android-chrome-192x192.png" alt="TECHLANCHES" title="TECHLANCHES" align="right" height="60" style="max-width: 100%;"></p>
 
 # Tech Lanches Docs
-Projeto Tech Challenge Fase 4
+Projeto Tech Challenge Fase 5
 
 Repositório dedicado às documentações do TechChallenge da FIAP - Turma 4SOAT.
 
@@ -30,3 +30,14 @@ Optamos pelo padrão de Saga coreografada em nosso sistema de microserviços pel
 4. **Escalabilidade e Resiliência**: A ausência de um orquestrador central elimina pontos únicos de falha e melhora a capacidade de resposta sob alta carga.
 
 5. **Ajuste ao Tamanho e Complexidade do Projeto**: Para nosso contexto, com um número limitado de serviços, a coreografia evita a sobrecarga de um orquestrador central, proporcionando uma solução proporcionalmente adequada.
+
+# Relatórios
+<details>
+  <summary>RIPD</summary>
+Link para relatório: https://github.com/g12-4soat/techlanches-docs/blob/main/docs/fase5/RIPD_TechLanches.docx
+</details>
+<details>
+  <summary>OWASP</summary>
+<p>Link para relatório antes correções: https://github.com/g12-4soat/techlanches-docs/tree/main/relatorios-owasp/antes</p>
+<p>Link para relatório após correções: https://github.com/g12-4soat/techlanches-docs/tree/main/relatorios-owasp/depois</p>
+</details>
