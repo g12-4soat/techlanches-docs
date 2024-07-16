@@ -41,3 +41,9 @@ Link para relatório: https://github.com/g12-4soat/techlanches-docs/blob/main/do
 <p>Link para relatório antes correções: https://github.com/g12-4soat/techlanches-docs/tree/main/relatorios-owasp/antes</p>
 <p>Link para relatório após correções: https://github.com/g12-4soat/techlanches-docs/tree/main/relatorios-owasp/depois</p>
 </details>
+
+# Vídeo Fase 5
+<details>
+  <summary>URL</summary>
+<p>Link para vídeo fase 5: https://www.youtube.com/watch?v=aYfjsvzzaw0 </p>
+</details>
